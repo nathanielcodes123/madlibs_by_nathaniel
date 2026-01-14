@@ -118,3 +118,15 @@ body {
     width: 100%;
   }
 }
+
+body {
+  font-family: Arial, sans-serif;
+  background: #f2f3ff;
+  text-align: center;
+  padding: 20px;
+}
+
+/* Center input area */
+#input-container {
+  display: flex;
+  flex-direction: column
